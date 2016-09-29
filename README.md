@@ -1,6 +1,6 @@
 # Senior Web Developer Nanodegree 
 
-This is the list of projects I did for my [Senior Web Developer Nanodegree](https://www.udacity.com/course/senior-web-developer-nanodegree--nd802),
+This is the list of projects I did for my [Senior Web Developer Nanodegree](https://www.udacity.com/course/senior-web-developer-nanodegree--nd802).
 
 Started on **19th May 2016**
 Graduated on **? October 2016**
@@ -9,7 +9,6 @@ Graduated on **? October 2016**
 ## Project 1 - Meet-Up Event Planner
 
 This project was about creating Semantic Forms.
-
 
 - [Project Requirements](https://github.com/ireade/meetup-event-planner#requirements)
 - [Source Code](https://github.com/ireade/meetup-event-planner)
